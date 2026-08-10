@@ -1,0 +1,18 @@
+,dtype,missing,missing_pct,unique
+Ref,object,0,0.0,9858
+Status,object,0,0.0,26
+Location,object,0,0.0,814
+Name,object,0,0.0,125
+Created,object,0,0.0,433
+Type,object,0,0.0,13
+Status Changed,object,0,0.0,349
+Open Actions,int64,0,0.0,14
+Total Actions,int64,0,0.0,32
+Association,object,8156,79.54,3
+OverDue,bool,0,0.0,1
+Images,bool,0,0.0,2
+Comments,bool,0,0.0,2
+Documents,object,804,7.84,3
+Project,int64,0,0.0,8
+Report Forms Status,object,2,0.02,3
+Report Forms Group,object,4,0.04,6

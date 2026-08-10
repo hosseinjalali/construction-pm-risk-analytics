@@ -1,0 +1,20 @@
+,dtype,missing,missing_pct,unique
+Ref,object,0,0.0,12118
+Status,object,0,0.0,16
+Location,object,0,0.0,594
+Description,object,0,0.0,10268
+Created,object,0,0.0,351
+Target,float64,9856,79.33,256
+Type,object,0,0.0,37
+To Package,object,1042,8.39,106
+Status Changed,object,0,0.0,361
+Association,object,2941,23.67,4
+OverDue,bool,0,0.0,2
+Images,object,152,1.22,3
+Comments,object,522,4.2,3
+Documents,object,644,5.18,3
+Priority,object,10058,80.96,15
+Cause,object,2741,22.06,48
+project,int64,0,0.0,8
+Report Status,object,0,0.0,2
+Task Group,object,50,0.4,5
