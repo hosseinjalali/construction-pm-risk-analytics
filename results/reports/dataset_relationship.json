@@ -1,0 +1,15 @@
+{
+  "shared_projects":[
+    1328,
+    1329,
+    1330,
+    1335,
+    1338,
+    1340,
+    1343,
+    1345
+  ],
+  "project_sets_match":true,
+  "direct_ref_join_available":false,
+  "note":"Association contains workflow labels (for example FormAnswer), not form references."
+}
