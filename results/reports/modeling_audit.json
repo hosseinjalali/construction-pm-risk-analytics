@@ -1,0 +1,7 @@
+{
+  "input_rows_after_exact_deduplication": 12424,
+  "unique_task_refs_used": 12118,
+  "duplicate_refs_removed": 306,
+  "temporal_holdout_start": "2020-08-10",
+  "threshold": 0.53125
+}
